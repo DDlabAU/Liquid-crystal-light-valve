@@ -7,14 +7,23 @@
 
 ## Manual til at styre skærm med photocell:
 
+For at lave kredsløbet skal de nødvendige dele først findes, står nedenfor. (Skærmen skal udleveres af en dd lab ansat)
+
 ### Materialer: 
 
-1) Arduino playground express board
-2) Photocell
-3) Modstand til Photocell
-3) liquid display
+1) Arduino circuit playground express board [Link til board](https://www.adafruit.com/product/3333) 
+2) Photocell [Link til photocell](https://www.adafruit.com/product/161) 
+3) Modstand til Photocell (Enten 5-10KΩ modstand eller 200KΩ modstand)
+3) liquid display 
 
 ### Kredsløb
 
+
+
 ### Kode: 
 
+![Kode til eksempel i arduino IDE](kode.png)
+
+Alt afhængig hvilket rum man befinder sig i, vil lyset være forskelligt som påvirker de værdier photocellen giver. Derfor skal man som det første registrere disse værdier i serial monitoren, for at tilegne minimum og maximum til rummet. 
+
+I dette eksempel bruges en photocell til at påvirke gennemsigtigheden af skærmen. Photocell kan erstattes af forskellige spændingsdelere, så som potentiometer, temperatur sensor etc. 

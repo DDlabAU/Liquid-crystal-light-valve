@@ -7,6 +7,8 @@
 
 ## Manual til at styre skærm med photocell:
 
+Ved at bygge kredsløbet kan man styre gennemsigtigheden af skærmen ved at påvirke photocellen! 
+
 For at lave kredsløbet skal de nødvendige dele først findes, står nedenfor. (Skærmen skal udleveres af en dd lab ansat)
 
 ### Materialer: 

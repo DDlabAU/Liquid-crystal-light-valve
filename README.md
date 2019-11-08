@@ -27,3 +27,5 @@ For at lave kredsløbet skal de nødvendige dele først findes, står nedenfor. 
 Alt afhængig hvilket rum man befinder sig i, vil lyset være forskelligt som påvirker de værdier photocellen giver. Derfor skal man som det første registrere disse værdier i serial monitoren, for at tilegne minimum og maximum til rummet. 
 
 I dette eksempel bruges en photocell til at påvirke gennemsigtigheden af skærmen. Photocell kan erstattes af forskellige spændingsdelere, så som potentiometer, temperatur sensor etc. 
+
+Link til kode: [Link til kode](https://github.com/DDlabAU/Liquid-crystal-light-valve)  

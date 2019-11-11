@@ -30,4 +30,4 @@ Alt afhængig hvilket rum man befinder sig i, vil lyset være forskelligt som p�
 
 I dette eksempel bruges en photocell til at påvirke gennemsigtigheden af skærmen. Photocell kan erstattes af forskellige spændingsdelere, så som potentiometer, temperatur sensor etc. 
 
- [Link til kode](https://github.com/DDlabAU/Liquid-crystal-light-valve/lcdscreen-eksempelkode)  
+ [Link til kode](https://github.com/DDlabAU/Liquid-crystal-light-valve)  

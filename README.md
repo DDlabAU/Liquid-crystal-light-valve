@@ -20,7 +20,7 @@ For at lave kredsløbet skal de nødvendige dele først findes, står nedenfor. 
 
 ### Kredsløb
 
-![Kredsløb](media/opsætning.png)
+![Kredsløb](media/circuitt.png)
 
 ### Kode: 
 

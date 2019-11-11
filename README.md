@@ -2,7 +2,7 @@
 
 [Link til adafruit page](https://www.adafruit.com/product/3330)
 
-![Liquid crystal light valve](skærm.jpg)
+![Liquid crystal light valve](media/skærm.jpg)
 
 
 ## Manual til at styre skærm med photocell:
@@ -20,14 +20,14 @@ For at lave kredsløbet skal de nødvendige dele først findes, står nedenfor. 
 
 ### Kredsløb
 
-![Kredsløb](circuit.png)
+![Kredsløb](media/circuit.png)
 
 ### Kode: 
 
-![Kode til eksempel i arduino IDE](kode.png)
+![Kode til eksempel i arduino IDE](media/kode.png)
 
 Alt afhængig hvilket rum man befinder sig i, vil lyset være forskelligt som påvirker de værdier photocellen giver. Derfor skal man som det første registrere disse værdier i serial monitoren, for at tilegne minimum og maximum til rummet. 
 
 I dette eksempel bruges en photocell til at påvirke gennemsigtigheden af skærmen. Photocell kan erstattes af forskellige spændingsdelere, så som potentiometer, temperatur sensor etc. 
 
-Link til kode: [Link til kode](https://github.com/DDlabAU/Liquid-crystal-light-valve)  
+ [Link til kode](https://github.com/DDlabAU/Liquid-crystal-light-valve)  

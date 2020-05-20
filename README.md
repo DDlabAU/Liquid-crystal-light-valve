@@ -1,17 +1,17 @@
-# Liquid-crystal-light-valve
+# Liquid Crystal Light Valve
 
 [Link til adafruit page](https://www.adafruit.com/product/3330)
 
 ![Liquid crystal light valve](media/skærm.jpg)
 
 
-## Manual til at styre skærm med photocell:
+## Manual til at styre skærm med photocell
 
 Ved at bygge kredsløbet kan man styre gennemsigtigheden af skærmen ved at påvirke photocellen! 
 
 For at lave kredsløbet skal de nødvendige dele først findes, står nedenfor. (Skærmen skal udleveres af en dd lab ansat)
 
-### Materialer: 
+### Materialer 
 
 1) Arduino circuit playground express board [Link til board](https://www.adafruit.com/product/3333) 
 2) Photocell [Link til photocell](https://www.adafruit.com/product/161) 
@@ -22,7 +22,7 @@ For at lave kredsløbet skal de nødvendige dele først findes, står nedenfor. 
 
 ![Kredsløb](media/circuitt.png)
 
-### Kode: 
+### Kode 
 
 ![Kode til eksempel i arduino IDE](media/kode.png)
 
@@ -30,4 +30,4 @@ Alt afhængig hvilket rum man befinder sig i, vil lyset være forskelligt som p�
 
 I dette eksempel bruges en photocell til at påvirke gennemsigtigheden af skærmen. Photocell kan erstattes af forskellige spændingsdelere, så som potentiometer, temperatur sensor etc. 
 
- [Link til kode](https://github.com/DDlabAU/Liquid-crystal-light-valve)  
+ [Link til kode](lcdscreen-eksempelkode)
